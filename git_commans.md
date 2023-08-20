@@ -14,7 +14,7 @@ git branch: sirve para visualizar la cantidad de ramas que tiene nuestro proyect
 
 git add: sirve para preparar cada uno de los cambios para los commits
 
-git commit: sirve para guardar los cambios realizados junto con la posibilida de dejar un mensaje
+git commit: sirve para guardar los cambios realizados junto con la posibilidad de dejar un mensaje
 
 git push: sirve para subir a un repositorio remoto los cambios que hice en un proyecto e manera local
 
